@@ -1,0 +1,6 @@
+{
+  "name": "HomeVault Photos",
+  "description": "Your private Google Photos alternative that automatically backs up media to your home computer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
